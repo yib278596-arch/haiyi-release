@@ -1,10 +1,10 @@
 {
-  "version": "1.4.42",
-  "filename": "HAIYI-1.4.42-win-x64.exe",
-  "size": 107084834,
-  "sha256": "20359442d497d4848ff1dda0c17aa79e64a20f6511417655b09cae1c0d14630d",
+  "version": "1.4.43",
+  "filename": "HAIYI-1.4.43-win-x64.exe",
+  "size": 107100896,
+  "sha256": "91366ec640e600ca2e0766abbc8c9f1381d2c50a3ae477fba16054d16bedf7a1",
   "mirrors": [
-    { "id": "ghfast", "name": "国内加速", "url": "https://ghfast.top/https://github.com/yib278596-arch/haiyi-release/releases/download/v1.4.42/HAIYI-1.4.42-win-x64.exe", "region": "cn" },
-    { "id": "github", "name": "GitHub直连", "url": "https://github.com/yib278596-arch/haiyi-release/releases/download/v1.4.42/HAIYI-1.4.42-win-x64.exe", "region": "backup" }
+    { "id": "ghfast", "name": "国内加速", "url": "https://ghfast.top/https://github.com/yib278596-arch/haiyi-release/releases/download/v1.4.43/HAIYI-1.4.43-win-x64.exe", "region": "cn" },
+    { "id": "github", "name": "GitHub直连", "url": "https://github.com/yib278596-arch/haiyi-release/releases/download/v1.4.43/HAIYI-1.4.43-win-x64.exe", "region": "backup" }
   ]
 }
